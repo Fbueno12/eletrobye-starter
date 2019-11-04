@@ -15,3 +15,11 @@
 
 # Preview do aplicativo
 
+<h1 align="center">
+  <img alt="EletroBye" title="EletroBye" src="screenshot05.png" width="200px" />
+  <img alt="EletroBye" title="EletroBye" src="screenshot04.png" width="200px" />
+  <br />
+  <img alt="EletroBye" title="EletroBye" src="screenshot01.png" width="200px" />
+  <img alt="EletroBye" title="EletroBye" src="screenshot02.png" width="200px" />
+  <img alt="EletroBye" title="EletroBye" src="screenshot03.png" width="200px" />
+</h1>
